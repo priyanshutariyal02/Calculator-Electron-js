@@ -18,7 +18,7 @@ export const calculateResult = (exp) => {
 
 export const handleButtonClick = (val, prevExp) => {
   if (val === 'C') return ''; // Clear expression
-  if (val === '<x|') return prevExp.slice(0, -1); // Backspace
+  if (val === '⌫') return prevExp.slice(0, -1); // Backspace
   if (val === '=' && prevExp) return calculateResult(prevExp); // Evaluate expression
 
   // Prevent multiple consecutive operators
