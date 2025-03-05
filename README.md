@@ -116,6 +116,7 @@ This project was created solely for **learning purposes** to understand how **El
 ---
 
 ## Output
+![Screenshot 2025-03-05 134333](https://github.com/user-attachments/assets/b730b37e-8f7c-4bde-aba4-e2cb18abd031) ![Screenshot 2025-03-05 134359](https://github.com/user-attachments/assets/05b2a564-6cf1-4f12-b6fd-3afddc73f92b)
 
 
 Made by Priyanshu Tariyal
